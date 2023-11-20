@@ -199,8 +199,11 @@ nav>div>video{
 .movie_poster>div>div:nth-child(4){
     display: flex;
 }
-.movie_poster>div>div>div>img{
+.movie_poster>div{
+    
     margin-bottom: 60px;
+}
+.movie_poster>div>div>div>img{
     width: 20px;
     height: 20px;
 }
@@ -217,7 +220,7 @@ nav>div>video{
     border-radius: 10px;
     width: 190px;
     height: 270px;
-    bottom: -252px;
+    bottom: -222px;
     /* top: 215px; */
     /* margin-bottom: 190px; */
 }
